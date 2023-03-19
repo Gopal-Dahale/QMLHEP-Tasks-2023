@@ -1,0 +1,5 @@
+c_hidden: 16
+c_in: 4
+c_out: 1
+layer_name: GCN
+num_layers: 2
