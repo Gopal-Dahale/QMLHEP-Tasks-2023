@@ -1,2 +1,4 @@
 .ipynb_checkpoints/
 qmlhep/
+data/
+__pycache__/
