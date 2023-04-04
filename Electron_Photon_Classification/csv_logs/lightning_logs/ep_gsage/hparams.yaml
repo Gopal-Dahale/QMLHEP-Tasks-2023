@@ -1,0 +1,4 @@
+batch_size: 128
+c_hidden: 16
+c_in: 3
+c_out: 1
